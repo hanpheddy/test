@@ -8,3 +8,4 @@ Improve performance [CM6jYi] line 10.1
 Fix issue in Y [yWmK7N] line 12.1
 Refactor codebase with Z [eMKD8W] line 13.2
 Refactor codebase with Z [eMKD8W] line 13.3
+Update documentation [cotiS9] line 14.3
